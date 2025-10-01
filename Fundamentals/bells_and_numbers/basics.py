@@ -1,0 +1,6 @@
+var_1 = int(input("Give a value for a: "))
+var_2 = int(input("Give a value for b: "))
+print(f"{var_1} + {var_2} = {var_1+var_2}")
+print(f"{var_1} - {var_2} = {var_1-var_2}")
+print(f"{var_1} * {var_2} = {var_1*var_2}")
+print(f"{var_1} / {var_2} = {var_1/var_2}")
